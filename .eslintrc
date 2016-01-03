@@ -1,0 +1,7 @@
+{
+    "extends": "ezhome",
+    "rules": {
+        "func-style": [2, "declaration"],
+        "react/display-name": [0]
+    }
+}
